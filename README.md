@@ -1,7 +1,7 @@
 ![logo](https://github.com/Vickykr7323/Vickykr7323/blob/main/back.jpg)
 <h1 align="center">Hi 👋, I'm Vicky Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India .</h3>
-<img align="right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3DGxC7rstKtsl4LhI2kGg0&ust=1722341027749000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiIqcaazIcDFQAAAAAdAAAAABAk.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/Vickykr7323/Vickykr7323/blob/main/style.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickykr7323&label=Profile%20views&color=0e75b6&style=flat" alt="vickykr7323" /> </p>
